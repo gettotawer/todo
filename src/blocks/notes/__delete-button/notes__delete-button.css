@@ -1,0 +1,18 @@
+.notes__delete-button{
+    appearance: none;
+    border: 0;
+    background-image: url(../../../images/delete-button-svgrepo-com.svg);
+    border-radius: 2px;
+    cursor: pointer;
+    width: 17px;
+    height: 17px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: ease-out 0.2s;
+    cursor: pointer;
+}
+
+.notes__delete-button:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}

@@ -1,0 +1,16 @@
+.note__button-waiting{
+    appearance: none;
+    border: 0;
+    background-image: url(../../../images/waiting-svgrepo-com.svg);
+    transition: ease-out 0.2s;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.note__button-waiting:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}

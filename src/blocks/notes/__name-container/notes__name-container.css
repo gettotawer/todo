@@ -1,0 +1,6 @@
+.notes__name-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 5px;
+}

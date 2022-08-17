@@ -1,13 +1,40 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import url(./vendor/normalize.css);
+@import url(./blocks/app/App.css);
+@import url(./blocks/container/container.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__title/header__title.css);
+@import url(./blocks/notes/notes.css);
+@import url(./blocks/notes/__container/notes__container.css);
+@import url(./blocks/notes/__title/notes__title.css);
+@import url(./blocks/notes/__description/notes__description.css);
+@import url(./blocks/notes/__head/notes__head.css);
+@import url(./blocks/notes/__name/notes__name.css);
+@import url(./blocks/note/note.css);
+@import url(./blocks/note/__input-description/note__input-description.css);
+@import url(./blocks/note/__input-name/note__input-name.css);
+@import url(./blocks/notes/__add-button/notes__add-button.css);
+@import url(./blocks/notes/__container/_active/notes__container_active.css);
+@import url(./blocks/notes/__delete-button/notes__delete-button.css);
+@import url(./blocks/notes/__name-container/notes__name-container.css);
+@import url(./blocks/notes/__container/_not-visible/notes__container_not-visible.css);
+@import url(./blocks/notes/__name/_done/notes__name_done.css);
+@import url(./blocks/notes/__name/_in-progress/notes__name_in-progress.css);
+@import url(./blocks/notes/__name/_waiting/notes__name_waiting.css);
+@import url(./blocks/note/__button-container/note__button-container.css);
+@import url(./blocks/note/__button-done/note__button_done.css);
+@import url(./blocks/note/__button-in-progress/note__button-in-progress.css);
+@import url(./blocks/note/__button-waiting/note__button-waiting.css);
+/*@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url(); */

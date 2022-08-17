@@ -1,0 +1,16 @@
+.notes__add-button{
+    appearance: none;
+    border: 0;
+    background-image: url(../../../images/add-svgrepo-com.svg);
+    transition: ease-out 0.2s;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.notes__add-button:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}

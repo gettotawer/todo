@@ -1,0 +1,10 @@
+.notes__head{
+    box-sizing: border-box;
+    padding-top: 5px;
+    width: 250px;
+    padding: 5px 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
