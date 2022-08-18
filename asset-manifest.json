@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gettotawer/todo/static/css/main.b2a81b3e.css",
-    "main.js": "/gettotawer/todo/static/js/main.740b20dc.js",
+    "main.js": "/gettotawer/todo/static/js/main.0da67382.js",
     "static/js/787.63e47474.chunk.js": "/gettotawer/todo/static/js/787.63e47474.chunk.js",
     "static/media/waiting-svgrepo-com.svg": "/gettotawer/todo/static/media/waiting-svgrepo-com.4088d8f9cbd242a17114.svg",
     "static/media/delete-button-svgrepo-com.svg": "/gettotawer/todo/static/media/delete-button-svgrepo-com.3d88ae66dc07e50f1eef.svg",
@@ -10,11 +10,11 @@
     "static/media/todo-done-svgrepo-com.svg": "/gettotawer/todo/static/media/todo-done-svgrepo-com.cd2b44087f80399f0c2e.svg",
     "static/media/in-progress-svgrepo-com.svg": "/gettotawer/todo/static/media/in-progress-svgrepo-com.1749e5bf191ac19e6973.svg",
     "main.b2a81b3e.css.map": "/gettotawer/todo/static/css/main.b2a81b3e.css.map",
-    "main.740b20dc.js.map": "/gettotawer/todo/static/js/main.740b20dc.js.map",
+    "main.0da67382.js.map": "/gettotawer/todo/static/js/main.0da67382.js.map",
     "787.63e47474.chunk.js.map": "/gettotawer/todo/static/js/787.63e47474.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2a81b3e.css",
-    "static/js/main.740b20dc.js"
+    "static/js/main.0da67382.js"
   ]
 }
