@@ -1,9 +1,8 @@
 .notes{
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
-    border-right: solid 2px black;
-    max-width: 250px;
+    /* border-right: solid 2px black; */
     width: 100%;
+    box-sizing: border-box;
 }

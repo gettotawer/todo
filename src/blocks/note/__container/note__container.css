@@ -1,0 +1,7 @@
+.note__container{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 100%;
+}

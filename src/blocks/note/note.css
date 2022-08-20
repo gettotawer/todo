@@ -1,7 +1,12 @@
 .note{
-    /* box-sizing: border-box; */
+    /* box-sizing: border-box;
     width: 100%;
     display: flex;
     flex-direction: column;
     padding: 10px;
+    width: 700px; */
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    box-sizing: border-box;
 }
